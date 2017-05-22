@@ -1,0 +1,48 @@
+body{
+	text-align: center;
+	font-family: Helvetica,sans-serif;
+	margin: 0px;
+
+	}
+
+.menu{
+	background: white;
+	padding-top: 30px;
+	padding-bottom: 100px;
+	padding-left: 30px;
+}
+
+.toptitle{
+	font-size: 60px;
+	color: #60adab;
+	text-shadow: 2px 2px black;
+	line-height:50%;
+}
+
+#slogan{
+	padding-top: 30px;
+	font-family: "Archivo Black";
+	font-size: 1.7em;
+	color: #f54473;
+	}
+
+.list{
+	text-align: left;
+}
+
+#top{
+	background: url("../images/workspace.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+ 
+.hometext { 
+	font-family: "Sahitya, serif";
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 0 200px;
+	color:#333333
+	text-align: justify;
+ }

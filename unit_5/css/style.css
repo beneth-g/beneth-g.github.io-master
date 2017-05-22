@@ -1,0 +1,63 @@
+body{
+	text-align: center;
+	font-family: Helvetica,sans-serif;
+	margin: 0px;
+
+	}
+
+header{
+	background: #FFED74;
+	padding-top: 30px;
+	padding-bottom: 100px;
+	padding-left: 30px;
+}
+
+nav {
+	background: #E8C66A;
+}
+
+article{
+	background: #E89C6C;
+}
+
+.toptitle{
+	font-size: 60px;
+	color: #60adab;
+	text-shadow: 2px 2px black;
+	line-height:50%;
+}
+
+#slogan{
+	padding-top: 30px;
+	font-family: "Archivo Black";
+	font-size: 1.7em;
+	color: #f54473;
+	}
+
+.list{
+	text-align: left;
+}
+
+section {
+	background: url("../images/workspace.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+ 
+.hometext { 
+	font-family: "Sahitya, serif";
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 0 200px;
+	color:#333333
+	text-align: justify;
+ }
+
+ footer {
+ 	background: #FF957E;
+ 	padding:20px 0;
+ 	color: #FFED74;
+ 	font-size: .8em;
+ }
